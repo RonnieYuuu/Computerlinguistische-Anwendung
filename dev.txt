@@ -1,2 +1,0 @@
-a b	a	True
-a	b	False
